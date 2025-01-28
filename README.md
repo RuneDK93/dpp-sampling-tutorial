@@ -1,5 +1,5 @@
 # dpp-sampling-tutorial
-A python based tutorial for Determinantal Point Process (DPP) sampling
+A python based tutorial for Determinantal Point Process (DPP) sampling. The tutorial includes a simple manual example, as well as more advanced examples using the DPPy package.
 
 
 
